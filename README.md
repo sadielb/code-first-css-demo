@@ -18,9 +18,11 @@ Useful and relatively short:
 - [All About Floats](https://css-tricks.com/all-about-floats/): basic guide to float
 - [Detailed guide to positioning](http://learn.shayhowe.com/html-css/positioning-content/): this explains `position` and `float` more thoroughly and gives a really good example of a columnar layout
 - [Creating a CSS Layout from Scratch](http://www.subcide.com/articles/creating-a-css-layout-from-scratch/) - slightly outdated but still quite helpful
+- [The Anti-hero of CSS Layout - "display:table"](http://colintoh.com/blog/display-table-anti-hero) - another way to do columnar layouts (still fraught with a few issues) is `display:table` - this is a good description of some ways you can use it
 
 If you have more time / for later:
 
+- [Flexbox guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - a comprehensive guide to Flexbox, a really cool new way of laying stuff out that makes things 10x easier than floats or tables
 - [CSS Workshop - a detailed course on CSS layouts](https://thecssworkshop.com/)
 - [Comparison of layout techniques in CSS](http://blog.karenmenezes.com/2014/apr/13/floats-inline-block-or-display-table-or-flexbox/)
 - [Skeleton](http://www.getskeleton.com/) - a really nice, simple grid system that makes columnar layouts way easier
